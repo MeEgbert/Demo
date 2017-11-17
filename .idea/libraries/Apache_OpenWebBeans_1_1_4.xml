@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Apache OpenWebBeans-1.1.4" type="CDI">
+    <properties version="1.1.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JSF/lib/geronimo-atinject_1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/geronimo-jcdi_1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-ee-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-ee-common-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-ejb-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-el10-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-jms-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-jsf-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-jsf12-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-osgi-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-resource-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-tomcat6-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-tomcat7-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-web-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-spi-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JSF/lib/openwebbeans-impl-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
